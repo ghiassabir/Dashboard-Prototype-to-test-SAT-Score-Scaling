@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // --- CONFIGURATION ---
-    const DASHBOARD_FEED_CSV_URL = 'YOUR_PUBLISHED_DashboardFeed_CB_ScaledScores_Prototype_CSV_URL_HERE'; // !!! REPLACE THIS !!!
+    const DASHBOARD_FEED_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSySYBO9YL3N4aUG3JEYZMQQIv9d1oSm3ba4Ty9Gt4SsGs2zmTS_k81rH3Qv41mZvClnayNcDpl_QbI/pub?gid=771864271&single=true&output=csv'; // !!! REPLACE THIS !!!
     const LOCAL_STORAGE_STUDENT_ID_KEY = 'satHubStudentGmailId'; 
 
     // --- DOM ELEMENTS ---
